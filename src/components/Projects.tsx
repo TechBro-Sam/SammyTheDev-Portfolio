@@ -86,6 +86,16 @@ const Projects = () => {
       categories: ['web', 'design'],
       technologies: ['React', 'TailwindCSS', 'Framer Motion'],
     },
+    {
+      id: 7,
+      title: 'Deluxe saving  app',
+      description: 'A simulation of how the saving app will be  ',
+      image: 'https://img.freepik.com/free-psd/money-template-design_23-2151629635.jpg?t=st=1754903352~exp=1754906952~hmac=04cb2ce1841a4a6069a972a6e4d3fee01f110211a8c7188947107a0d597e6b02&w=1060',
+      liveUrl: 'https://cooperative-savings-app.vercel.app/',
+      githubUrl: 'https://github.com/TechBro-Sam/Guess-Game',
+      categories: ['web', 'design'],
+      technologies: ['React', 'TailwindCSS', 'Framer Motion'],
+    },
   ];
 
   const filteredProjects = activeCategory === 'all' 
