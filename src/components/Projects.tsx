@@ -100,7 +100,7 @@ const Projects = () => {
       id: 7,
       title: 'SkyWay Flight Finder  app',
       description: 'A simulation of how the Flight bookings  app   ',
-      image: 'https://www.shutterstock.com/image-photo/air-ticket-flight-booking-concept-young-2229244159',
+      image: 'https://img.freepik.com/free-photo/booking-hotel-reservation-travel-destination-concept_53876-121094.jpg?ga=GA1.1.1928448759.1754903339&semt=ais_hybrid&w=740&q=80',
       liveUrl: 'https://skyways-project.vercel.app/',
       githubUrl: 'https://github.com/TechBro-Sam/Skyways-Flight-Finder-',
       categories: ['web', 'design','mobile'],
