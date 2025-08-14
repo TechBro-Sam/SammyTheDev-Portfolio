@@ -96,6 +96,16 @@ const Projects = () => {
       categories: ['web', 'design'],
       technologies: ['React', 'TailwindCSS', 'Framer Motion'],
     },
+     {
+      id: 7,
+      title: 'SkyWay Flight Finder  app',
+      description: 'A simulation of how the Flight bookings  app   ',
+      image: 'https://www.shutterstock.com/image-photo/air-ticket-flight-booking-concept-young-2229244159',
+      liveUrl: 'https://skyways-project.vercel.app/',
+      githubUrl: 'https://github.com/TechBro-Sam/Skyways-Flight-Finder-',
+      categories: ['web', 'design','mobile'],
+      technologies: ['React', 'TailwindCSS', 'Framer Motion','TypeScript'],
+    },
   ];
 
   const filteredProjects = activeCategory === 'all' 
